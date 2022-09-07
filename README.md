@@ -3,8 +3,7 @@
 May 2023.
 - 👀 I’m interested in Automation, Cloud Computing and processing Big Data.
 - 📸 I'm also an avid Photographer and enjoy playing 🎸
-- 🌱 I’m currently learning the fundamentals of Cloud Computing on AWS and learning to utilize different Data Structures
-and Algorithms to efficiently solve problems.
+- 🌱 I’m currently learning to utilize different Data Structures and Algorithms to efficiently solve problems.
   
 - 📫 You can reach me using my email robeltadele@letu.edu
 - Thanks :)

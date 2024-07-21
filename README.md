@@ -1,11 +1,7 @@
 - 👋 Hi, I’m Robel Tadele
-- 🎓 I'm a Senior at LeTourneau University studying Computer Science, with an anticipated graduation date of
-May 2023.
 - 👀 I’m interested in Automation, Cloud Computing and processing Big Data.
 - 📸 I'm also an avid Photographer and enjoy playing 🎸
 - 🌱 I’m currently learning to utilize different Data Structures and Algorithms to efficiently solve problems.
-  
-- 📫 You can reach me using my email robeltadele@letu.edu
 - Thanks :)
 
 <!---
